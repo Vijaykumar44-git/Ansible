@@ -1,0 +1,9 @@
+galaxy_info:
+  author: Test
+  description: Trying to deploy role to ansible galaxy
+  company: Test
+
+  license: license (GPL-2.0-or-later, MIT, etc)
+
+  min_ansible_version: 2.9
+

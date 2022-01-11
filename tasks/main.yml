@@ -1,0 +1,7 @@
+---
+# tasks file for role1
+
+- name: Creating file
+  file:
+   path: /root/{{filename}}
+   state: touch
